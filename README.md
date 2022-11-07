@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sahilmendhe
-- 👀 I’m interested in Web Development and Software Development
-- 🌱 I’m currently learning full stack web development development
+- 👀 I’m interested in Web Development and Software Development.
+- 🌱 I’m currently learning full stack Web Development.
 - 📫 How to reach me send2sahilmendhe@gmail.com
 
 <!---
